@@ -36,9 +36,21 @@ Developed by **Ammar (2024065)** & **Krishna (2024312)**.
 * **Database:** MySQL 8.0+
 * **Connectivity:** JDBC (Java Database Connectivity)
 
-## 🚀 Installation & Setup
+# How to Run the Project
 
-**1. Clone the repository**
-```bash
-git clone https://github.com/Ammm9rs/College-Erp.git
-cd College-Erp
+## Step 1: Setup Database
+
+1. Open MySQL
+2. Run:
+   SOURCE full_database_setup.sql;
+
+## Step 2: Default Login Credentials
+
+Username: admin1
+Password: admin123
+
+## Step 3: Run the Application
+
+Run Main.java
+
+---
